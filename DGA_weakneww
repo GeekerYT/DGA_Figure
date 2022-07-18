@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T04:26:19.504Z" agent="5.0 (X11)" etag="E9U46cOvg7VUWRxCSekQ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T04:41:54.106Z" agent="5.0 (X11)" etag="BkWk9GvMRdeTsX_TDbbO" version="20.1.1" type="github">
   <diagram id="twWt-Qn88OppXlTx-U3v" name="Page-1">
-    <mxGraphModel dx="2873" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2783" dy="1331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azHw2ev9LbGomiCRR2bH-14" value="Ideal Model" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=24;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;html=1;" vertex="1" parent="1">
+        <mxCell id="azHw2ev9LbGomiCRR2bH-14" value="&lt;i&gt;&lt;font color=&quot;#FF0000&quot;&gt;Ideal&lt;/font&gt; Model&lt;/i&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=24;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;html=1;" vertex="1" parent="1">
           <mxGeometry x="-475" y="465" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="azHw2ev9LbGomiCRR2bH-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=25;strokeColor=#808080;strokeWidth=1;fillColor=#000000;aspect=fixed;fontSize=24;fontStyle=1;html=1;" vertex="1" parent="1">
